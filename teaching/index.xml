@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching | Vignesh Sivaraman</title>
+    <link>https://www.comp.nus.edu.sg/~vigneshs/teaching/</link>
+      <atom:link href="https://www.comp.nus.edu.sg/~vigneshs/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright>
+    <image>
+      <url>https://www.comp.nus.edu.sg/~vigneshs/images/icon_huf76c7d7a180684c31c2ae9ef32f25251_734_512x512_fill_lanczos_center_2.png</url>
+      <title>Teaching</title>
+      <link>https://www.comp.nus.edu.sg/~vigneshs/teaching/</link>
+    </image>
+    
+  </channel>
+</rss>
