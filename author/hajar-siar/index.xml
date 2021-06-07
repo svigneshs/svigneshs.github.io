@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hajar Siar | Vignesh Sivaraman</title>
-    <link>https://www.comp.nus.edu.sg/~vigneshs/author/hajar-siar/</link>
-      <atom:link href="https://www.comp.nus.edu.sg/~vigneshs/author/hajar-siar/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://svigneshs.github.io/author/hajar-siar/</link>
+      <atom:link href="https://svigneshs.github.io/author/hajar-siar/index.xml" rel="self" type="application/rss+xml" />
     <description>Hajar Siar</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.comp.nus.edu.sg/~vigneshs/images/icon_huf76c7d7a180684c31c2ae9ef32f25251_734_512x512_fill_lanczos_center_2.png</url>
+      <url>https://svigneshs.github.io/images/icon_huf76c7d7a180684c31c2ae9ef32f25251_734_512x512_fill_lanczos_center_2.png</url>
       <title>Hajar Siar</title>
-      <link>https://www.comp.nus.edu.sg/~vigneshs/author/hajar-siar/</link>
+      <link>https://svigneshs.github.io/author/hajar-siar/</link>
     </image>
     
     <item>
       <title>Non-cooperative power and latency aware load balancing in distributed data centers</title>
-      <link>https://www.comp.nus.edu.sg/~vigneshs/publication/jpdc17/</link>
+      <link>https://svigneshs.github.io/publication/jpdc17/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.comp.nus.edu.sg/~vigneshs/publication/jpdc17/</guid>
+      <guid>https://svigneshs.github.io/publication/jpdc17/</guid>
       <description></description>
     </item>
     

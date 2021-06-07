@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rakesh Tripathi | Vignesh Sivaraman</title>
-    <link>https://www.comp.nus.edu.sg/~vigneshs/author/rakesh-tripathi/</link>
-      <atom:link href="https://www.comp.nus.edu.sg/~vigneshs/author/rakesh-tripathi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://svigneshs.github.io/author/rakesh-tripathi/</link>
+      <atom:link href="https://svigneshs.github.io/author/rakesh-tripathi/index.xml" rel="self" type="application/rss+xml" />
     <description>Rakesh Tripathi</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.comp.nus.edu.sg/~vigneshs/images/icon_huf76c7d7a180684c31c2ae9ef32f25251_734_512x512_fill_lanczos_center_2.png</url>
+      <url>https://svigneshs.github.io/images/icon_huf76c7d7a180684c31c2ae9ef32f25251_734_512x512_fill_lanczos_center_2.png</url>
       <title>Rakesh Tripathi</title>
-      <link>https://www.comp.nus.edu.sg/~vigneshs/author/rakesh-tripathi/</link>
+      <link>https://svigneshs.github.io/author/rakesh-tripathi/</link>
     </image>
     
     <item>
       <title>Non-cooperative power and latency aware load balancing in distributed data centers</title>
-      <link>https://www.comp.nus.edu.sg/~vigneshs/publication/jpdc17/</link>
+      <link>https://svigneshs.github.io/publication/jpdc17/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.comp.nus.edu.sg/~vigneshs/publication/jpdc17/</guid>
+      <guid>https://svigneshs.github.io/publication/jpdc17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cost Efficient Design of Fault Tolerant Geo-Distributed Data Centers</title>
-      <link>https://www.comp.nus.edu.sg/~vigneshs/publication/tnsm17/</link>
+      <link>https://svigneshs.github.io/publication/tnsm17/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.comp.nus.edu.sg/~vigneshs/publication/tnsm17/</guid>
+      <guid>https://svigneshs.github.io/publication/tnsm17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimizing green energy, cost, and availability in distributed data centers</title>
-      <link>https://www.comp.nus.edu.sg/~vigneshs/publication/comletters16/</link>
+      <link>https://svigneshs.github.io/publication/comletters16/</link>
       <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.comp.nus.edu.sg/~vigneshs/publication/comletters16/</guid>
+      <guid>https://svigneshs.github.io/publication/comletters16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Minimizing the cost of designing fault-tolerant CDN data centers</title>
-      <link>https://www.comp.nus.edu.sg/~vigneshs/publication/ants16/</link>
+      <link>https://svigneshs.github.io/publication/ants16/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.comp.nus.edu.sg/~vigneshs/publication/ants16/</guid>
+      <guid>https://svigneshs.github.io/publication/ants16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Minimizing cost of provisioning in fault-tolerant distributed data centers with durability constraints</title>
-      <link>https://www.comp.nus.edu.sg/~vigneshs/publication/icc16/</link>
+      <link>https://svigneshs.github.io/publication/icc16/</link>
       <pubDate>Sun, 22 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.comp.nus.edu.sg/~vigneshs/publication/icc16/</guid>
+      <guid>https://svigneshs.github.io/publication/icc16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cost-aware capacity provisioning for fault-tolerant geo-distributed data centers</title>
-      <link>https://www.comp.nus.edu.sg/~vigneshs/publication/comsnets16/</link>
+      <link>https://svigneshs.github.io/publication/comsnets16/</link>
       <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.comp.nus.edu.sg/~vigneshs/publication/comsnets16/</guid>
+      <guid>https://svigneshs.github.io/publication/comsnets16/</guid>
       <description></description>
     </item>
     
